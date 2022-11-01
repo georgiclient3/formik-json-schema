@@ -1,5 +1,5 @@
 {
-    "name": "formik-json",
+    "name": "formik-json-schema",
     "version": "0.6.2",
     "description": "formik-json is a wrapper for Formik to easily create forms using JSON / Javascript Object for defining the elements",
     "main": "lib/index.js",
